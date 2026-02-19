@@ -1,0 +1,14 @@
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\bin\Debug\net10.0\ArrayECollezioni.exe
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\bin\Debug\net10.0\ArrayECollezioni.deps.json
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\bin\Debug\net10.0\ArrayECollezioni.runtimeconfig.json
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\bin\Debug\net10.0\ArrayECollezioni.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\bin\Debug\net10.0\ArrayECollezioni.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\obj\Debug\net10.0\ArrayECollezioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\obj\Debug\net10.0\ArrayECollezioni.AssemblyInfoInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\obj\Debug\net10.0\ArrayECollezioni.AssemblyInfo.cs
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\obj\Debug\net10.0\ArrayECollezioni.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\obj\Debug\net10.0\ArrayECollezioni.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\obj\Debug\net10.0\refint\ArrayECollezioni.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\obj\Debug\net10.0\ArrayECollezioni.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\obj\Debug\net10.0\ArrayECollezioni.genruntimeconfig.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\18.02.2026\ArrayECollezioni\obj\Debug\net10.0\ref\ArrayECollezioni.dll
