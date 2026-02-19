@@ -1,0 +1,14 @@
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\bin\Debug\net10.0\PrimoProgettoCSharp.exe
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\bin\Debug\net10.0\PrimoProgettoCSharp.deps.json
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\bin\Debug\net10.0\PrimoProgettoCSharp.runtimeconfig.json
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\bin\Debug\net10.0\PrimoProgettoCSharp.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\bin\Debug\net10.0\PrimoProgettoCSharp.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\obj\Debug\net10.0\PrimoProgettoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\obj\Debug\net10.0\PrimoProgettoCSharp.AssemblyInfoInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\obj\Debug\net10.0\PrimoProgettoCSharp.AssemblyInfo.cs
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\obj\Debug\net10.0\PrimoProgettoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\obj\Debug\net10.0\PrimoProgettoCSharp.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\obj\Debug\net10.0\refint\PrimoProgettoCSharp.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\obj\Debug\net10.0\PrimoProgettoCSharp.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\obj\Debug\net10.0\PrimoProgettoCSharp.genruntimeconfig.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\16.02.2026\PrimoProgettoCSharp\obj\Debug\net10.0\ref\PrimoProgettoCSharp.dll
