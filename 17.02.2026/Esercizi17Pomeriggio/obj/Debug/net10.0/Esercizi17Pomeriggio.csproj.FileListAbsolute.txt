@@ -1,0 +1,14 @@
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\bin\Debug\net10.0\Esercizi17Pomeriggio.exe
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\bin\Debug\net10.0\Esercizi17Pomeriggio.deps.json
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\bin\Debug\net10.0\Esercizi17Pomeriggio.runtimeconfig.json
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\bin\Debug\net10.0\Esercizi17Pomeriggio.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\bin\Debug\net10.0\Esercizi17Pomeriggio.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\obj\Debug\net10.0\Esercizi17Pomeriggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\obj\Debug\net10.0\Esercizi17Pomeriggio.AssemblyInfoInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\obj\Debug\net10.0\Esercizi17Pomeriggio.AssemblyInfo.cs
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\obj\Debug\net10.0\Esercizi17Pomeriggio.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\obj\Debug\net10.0\Esercizi17Pomeriggio.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\obj\Debug\net10.0\refint\Esercizi17Pomeriggio.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\obj\Debug\net10.0\Esercizi17Pomeriggio.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\obj\Debug\net10.0\Esercizi17Pomeriggio.genruntimeconfig.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Pomeriggio\obj\Debug\net10.0\ref\Esercizi17Pomeriggio.dll

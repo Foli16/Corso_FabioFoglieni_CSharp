@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Esercizi17Pomeriggio/1.0.0": {
+        "runtime": {
+          "Esercizi17Pomeriggio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esercizi17Pomeriggio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
