@@ -7,7 +7,7 @@ class Program
         int a = 2, b = 9;
         Console.WriteLine($"Risultato: {Somma(a, b)}");
 
-        
+
         // ESERCIZIO 1
         StampaSaluto("Lupo Lucio");
 
@@ -38,7 +38,7 @@ class Program
 
     private static int CalcolaPotenza(int baseNum, int esponente)
     {
-        if(baseNum == 0)
+        if(esponente == 0)
             return 1;
         int risultato = baseNum;
         for (int i = 0; i < esponente-1; i++)
