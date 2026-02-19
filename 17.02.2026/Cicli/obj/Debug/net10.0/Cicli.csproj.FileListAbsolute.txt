@@ -1,0 +1,14 @@
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\bin\Debug\net10.0\Cicli.exe
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\bin\Debug\net10.0\Cicli.deps.json
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\bin\Debug\net10.0\Cicli.runtimeconfig.json
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\bin\Debug\net10.0\Cicli.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\bin\Debug\net10.0\Cicli.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\obj\Debug\net10.0\Cicli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\obj\Debug\net10.0\Cicli.AssemblyInfoInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\obj\Debug\net10.0\Cicli.AssemblyInfo.cs
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\obj\Debug\net10.0\Cicli.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\obj\Debug\net10.0\Cicli.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\obj\Debug\net10.0\refint\Cicli.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\obj\Debug\net10.0\Cicli.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\obj\Debug\net10.0\Cicli.genruntimeconfig.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Cicli\obj\Debug\net10.0\ref\Cicli.dll
