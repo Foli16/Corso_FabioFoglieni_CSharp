@@ -38,8 +38,8 @@ class Program
 
     private static int CalcolaPotenza(int baseNum, int esponente)
     {
-        if(esponente == 0)
-            return 1;
+        if(esponente == 0) return 1;
+        
         int risultato = baseNum;
         for (int i = 0; i < esponente-1; i++)
             risultato *= baseNum;
