@@ -1,0 +1,14 @@
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\bin\Debug\net10.0\Esercizi17Mattina.exe
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\bin\Debug\net10.0\Esercizi17Mattina.deps.json
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\bin\Debug\net10.0\Esercizi17Mattina.runtimeconfig.json
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\bin\Debug\net10.0\Esercizi17Mattina.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\bin\Debug\net10.0\Esercizi17Mattina.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\obj\Debug\net10.0\Esercizi17Mattina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\obj\Debug\net10.0\Esercizi17Mattina.AssemblyInfoInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\obj\Debug\net10.0\Esercizi17Mattina.AssemblyInfo.cs
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\obj\Debug\net10.0\Esercizi17Mattina.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\obj\Debug\net10.0\Esercizi17Mattina.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\obj\Debug\net10.0\refint\Esercizi17Mattina.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\obj\Debug\net10.0\Esercizi17Mattina.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\obj\Debug\net10.0\Esercizi17Mattina.genruntimeconfig.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\Esercizi17Mattina\obj\Debug\net10.0\ref\Esercizi17Mattina.dll

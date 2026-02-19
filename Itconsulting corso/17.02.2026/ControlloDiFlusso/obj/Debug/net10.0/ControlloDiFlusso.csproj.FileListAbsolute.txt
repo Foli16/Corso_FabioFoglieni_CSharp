@@ -1,0 +1,14 @@
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\bin\Debug\net10.0\ControlloDiFlusso.exe
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\bin\Debug\net10.0\ControlloDiFlusso.deps.json
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\bin\Debug\net10.0\ControlloDiFlusso.runtimeconfig.json
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\bin\Debug\net10.0\ControlloDiFlusso.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\bin\Debug\net10.0\ControlloDiFlusso.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\obj\Debug\net10.0\ControlloDiFlusso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\obj\Debug\net10.0\ControlloDiFlusso.AssemblyInfoInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\obj\Debug\net10.0\ControlloDiFlusso.AssemblyInfo.cs
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\obj\Debug\net10.0\ControlloDiFlusso.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\obj\Debug\net10.0\ControlloDiFlusso.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\obj\Debug\net10.0\refint\ControlloDiFlusso.dll
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\obj\Debug\net10.0\ControlloDiFlusso.pdb
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\obj\Debug\net10.0\ControlloDiFlusso.genruntimeconfig.cache
+C:\Users\Fabio\Desktop\Itconsulting corso\17.02.2026\ControlloDiFlusso\obj\Debug\net10.0\ref\ControlloDiFlusso.dll
