@@ -2,7 +2,9 @@
 {
     public static void Main()
     {
-        /* // Istanziamento di oggetto
+        // SPIEGAZIONE
+        
+        // Istanziamento di oggetto
         Cane mioCane = new Cane();
 
         // Cambio di stato
@@ -29,7 +31,7 @@
         Console.WriteLine($"Nuovo nome: {mioCane.nome}");
 
         Persona p = new Persona("Gianni Morandi", 70000);
-        Console.WriteLine($"Persona di nome {p.nome} e di anni {p.eta}"); */
+        Console.WriteLine($"Persona di nome {p.nome} e di anni {p.eta}");
 
         // ESERCIZIO 1
         Studente s1 = new Studente();
