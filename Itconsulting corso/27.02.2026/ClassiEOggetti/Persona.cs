@@ -1,7 +1,7 @@
 class Persona
 {
-    public string nome;
-    public string cognome;
+    public string nome = string.Empty;
+    public string cognome = string.Empty;
     public int eta;
     public int annoNascita;
 

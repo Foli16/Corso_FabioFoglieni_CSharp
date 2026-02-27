@@ -3,7 +3,7 @@
     public static void Main()
     {
         // SPIEGAZIONE
-        
+
         // Istanziamento di oggetto
         Cane mioCane = new Cane();
 
@@ -37,18 +37,18 @@
         Studente s1 = new Studente();
         s1.name = "Gianpiero";
         s1.matricola = 12345;
-        s1.mediaVoti = 8.5;
+        s1.mediaVoti = 28.5;
 
         Studente s2 = new Studente();
         s2.name = "Geraldo";
         s2.matricola = 45678;
-        s2.mediaVoti = 6.7;
+        s2.mediaVoti = 16.7;
 
         s1.Info();
         s2.Info();
 
         // ESERCIZIO 2
-        Persona p1 = new Persona("Gino", "Paoli", 1940);
+        Persona p1 = new Persona("Pippo", "Franco", 1940);
         Persona p2 = new Persona("Jar Jar", "Binks", 1970);
         p1.Presentazione();
         p2.Presentazione();
