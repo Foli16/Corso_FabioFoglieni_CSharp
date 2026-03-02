@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\bin\Debug\net10.0\Esercizio2MarzoMattina.exe
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\bin\Debug\net10.0\Esercizio2MarzoMattina.deps.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\bin\Debug\net10.0\Esercizio2MarzoMattina.runtimeconfig.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\bin\Debug\net10.0\Esercizio2MarzoMattina.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\bin\Debug\net10.0\Esercizio2MarzoMattina.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\obj\Debug\net10.0\Esercizio2MarzoMattina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\obj\Debug\net10.0\Esercizio2MarzoMattina.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\obj\Debug\net10.0\Esercizio2MarzoMattina.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\obj\Debug\net10.0\Esercizio2MarzoMattina.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\obj\Debug\net10.0\Esercizio2MarzoMattina.sourcelink.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\obj\Debug\net10.0\Esercizio2MarzoMattina.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\obj\Debug\net10.0\refint\Esercizio2MarzoMattina.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\obj\Debug\net10.0\Esercizio2MarzoMattina.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\obj\Debug\net10.0\Esercizio2MarzoMattina.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\Esercizio2MarzoMattina\obj\Debug\net10.0\ref\Esercizio2MarzoMattina.dll

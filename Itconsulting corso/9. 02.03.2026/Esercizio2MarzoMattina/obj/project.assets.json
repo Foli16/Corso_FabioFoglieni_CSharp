@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Repository corso CSharp\\Corso_FabioFoglieni_CSharp\\Itconsulting corso\\02.03.2026\\EsercizioMetodiSpeciali\\EsercizioMetodiSpeciali.csproj",
-      "projectName": "EsercizioMetodiSpeciali",
-      "projectPath": "C:\\Users\\Fabio\\Documents\\Repository corso CSharp\\Corso_FabioFoglieni_CSharp\\Itconsulting corso\\02.03.2026\\EsercizioMetodiSpeciali\\EsercizioMetodiSpeciali.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Repository corso CSharp\\Corso_FabioFoglieni_CSharp\\Itconsulting corso\\9. 02.03.2026\\Esercizio2MarzoMattina\\Esercizio2MarzoMattina.csproj",
+      "projectName": "Esercizio2MarzoMattina",
+      "projectPath": "C:\\Users\\Fabio\\Documents\\Repository corso CSharp\\Corso_FabioFoglieni_CSharp\\Itconsulting corso\\9. 02.03.2026\\Esercizio2MarzoMattina\\Esercizio2MarzoMattina.csproj",
       "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabio\\Documents\\Repository corso CSharp\\Corso_FabioFoglieni_CSharp\\Itconsulting corso\\02.03.2026\\EsercizioMetodiSpeciali\\obj\\",
+      "outputPath": "C:\\Users\\Fabio\\Documents\\Repository corso CSharp\\Corso_FabioFoglieni_CSharp\\Itconsulting corso\\9. 02.03.2026\\Esercizio2MarzoMattina\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"
