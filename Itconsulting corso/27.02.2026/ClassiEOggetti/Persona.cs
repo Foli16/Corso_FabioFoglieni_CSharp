@@ -23,4 +23,9 @@ class Persona
     {
         Console.WriteLine($"{nome} {cognome} è nato nel {annoNascita}");
     }
+
+    public override string ToString()
+    {
+        return $"Nome: {nome}, cognome: {cognome}, età: {eta}, anno di nascita: {annoNascita}";
+    }
 }
