@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\bin\Debug\net10.0\EsercizioVideoteca.exe
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\bin\Debug\net10.0\EsercizioVideoteca.deps.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\bin\Debug\net10.0\EsercizioVideoteca.runtimeconfig.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\bin\Debug\net10.0\EsercizioVideoteca.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\bin\Debug\net10.0\EsercizioVideoteca.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\obj\Debug\net10.0\EsercizioVideoteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\obj\Debug\net10.0\EsercizioVideoteca.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\obj\Debug\net10.0\EsercizioVideoteca.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\obj\Debug\net10.0\EsercizioVideoteca.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\obj\Debug\net10.0\EsercizioVideoteca.sourcelink.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\obj\Debug\net10.0\EsercizioVideoteca.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\obj\Debug\net10.0\refint\EsercizioVideoteca.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\obj\Debug\net10.0\EsercizioVideoteca.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\obj\Debug\net10.0\EsercizioVideoteca.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioVideoteca\obj\Debug\net10.0\ref\EsercizioVideoteca.dll
