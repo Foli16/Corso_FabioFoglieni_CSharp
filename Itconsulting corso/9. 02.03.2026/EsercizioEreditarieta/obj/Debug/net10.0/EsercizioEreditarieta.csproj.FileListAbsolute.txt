@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\bin\Debug\net10.0\EsercizioEreditarieta.exe
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\bin\Debug\net10.0\EsercizioEreditarieta.deps.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\bin\Debug\net10.0\EsercizioEreditarieta.runtimeconfig.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\bin\Debug\net10.0\EsercizioEreditarieta.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\bin\Debug\net10.0\EsercizioEreditarieta.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\obj\Debug\net10.0\EsercizioEreditarieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\obj\Debug\net10.0\EsercizioEreditarieta.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\obj\Debug\net10.0\EsercizioEreditarieta.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\obj\Debug\net10.0\EsercizioEreditarieta.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\obj\Debug\net10.0\EsercizioEreditarieta.sourcelink.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\obj\Debug\net10.0\EsercizioEreditarieta.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\obj\Debug\net10.0\refint\EsercizioEreditarieta.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\obj\Debug\net10.0\EsercizioEreditarieta.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\obj\Debug\net10.0\EsercizioEreditarieta.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioEreditarieta\obj\Debug\net10.0\ref\EsercizioEreditarieta.dll
