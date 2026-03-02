@@ -45,7 +45,7 @@ class Program
             while(continua && u.credito != 0)
             {
                 Console.WriteLine("Scegli quale modifica apportare tra le seguenti:");
-                Console.WriteLine("1. Aumenta la velocità di 10\n2. Cambia tipo motore\n3. Aumenta di 1 le sospensioni,\n4. Termina modifiche");
+                Console.WriteLine("1. Aumenta la velocità di 10\n2. Cambia tipo motore\n3. Aumenta di 1 le sospensioni\n4. Termina modifiche");
                 string risp = Console.ReadLine()!;
 
                 switch(risp)
@@ -56,31 +56,30 @@ class Program
                         Console.WriteLine("\nVelocità aumentata!\n");
                         break;
                     case "2":
-                        bool continuaMotore = true;
+                        bool continuaMotore;
                         Console.WriteLine("\nChe motore vuoi inserire?");
                         Console.WriteLine("1. Motore elettrico\n2. Motore ibrido\n3. Motore a combustione nucleare");
-                        while(continuaMotore)
+                        do
                         {
+                            continuaMotore = false;
                             string rispMotore = Console.ReadLine()!;
                             switch(rispMotore)
                             {
                                 case "1":
                                     m.motore = "Motore elettrico";
-                                    continuaMotore = false;
                                     break;
                                 case "2":
                                     m.motore = "Motore ibrido";
-                                    continuaMotore = false;
                                     break;
                                 case "3":
                                     m.motore = "Motore a combustione nucleare";
-                                    continuaMotore = false;
                                     break;
                                 default:
+                                    continuaMotore = true;
                                     Console.WriteLine("\nComando non valido! Inserire uno dei comandi disponibili.\n");
                                     break;
                             }
-                        }
+                        } while(continuaMotore);
                         ModificaAvvenuta(ref u.credito, ref m.nrModifiche);
                         Console.WriteLine("\nMotore modificato!\n");
                         break;
