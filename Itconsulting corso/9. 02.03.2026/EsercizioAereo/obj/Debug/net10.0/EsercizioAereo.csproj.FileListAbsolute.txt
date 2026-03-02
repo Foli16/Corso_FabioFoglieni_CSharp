@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\bin\Debug\net10.0\EsercizioAereo.exe
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\bin\Debug\net10.0\EsercizioAereo.deps.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\bin\Debug\net10.0\EsercizioAereo.runtimeconfig.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\bin\Debug\net10.0\EsercizioAereo.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\bin\Debug\net10.0\EsercizioAereo.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\obj\Debug\net10.0\EsercizioAereo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\obj\Debug\net10.0\EsercizioAereo.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\obj\Debug\net10.0\EsercizioAereo.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\obj\Debug\net10.0\EsercizioAereo.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\obj\Debug\net10.0\EsercizioAereo.sourcelink.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\obj\Debug\net10.0\EsercizioAereo.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\obj\Debug\net10.0\refint\EsercizioAereo.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\obj\Debug\net10.0\EsercizioAereo.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\obj\Debug\net10.0\EsercizioAereo.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\9. 02.03.2026\EsercizioAereo\obj\Debug\net10.0\ref\EsercizioAereo.dll
