@@ -13,7 +13,7 @@ class VoloAereo
 
     public void EffettuaPrenotazione(int numeroPosti)
     {
-        if(postiLiberi >= numeroPosti && postiOccupati+numeroPosti <= maxPosti)
+        if(postiOccupati+numeroPosti <= maxPosti)
         {
             postiOccupati += numeroPosti;
             postiLiberi -= numeroPosti;
@@ -25,7 +25,7 @@ class VoloAereo
 
     public void AnnullaPrenotazione(int numeroPosti)
     {
-        if(numeroPosti <= postiOccupati && postiOccupati-numeroPosti >= 0)
+        if(postiOccupati-numeroPosti >= 0)
         {
             postiOccupati -= numeroPosti;
             postiLiberi += numeroPosti;
