@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\bin\Debug\net10.0\EsercizioViaggi.exe
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\bin\Debug\net10.0\EsercizioViaggi.deps.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\bin\Debug\net10.0\EsercizioViaggi.runtimeconfig.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\bin\Debug\net10.0\EsercizioViaggi.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\bin\Debug\net10.0\EsercizioViaggi.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\obj\Debug\net10.0\EsercizioViaggi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\obj\Debug\net10.0\EsercizioViaggi.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\obj\Debug\net10.0\EsercizioViaggi.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\obj\Debug\net10.0\EsercizioViaggi.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\obj\Debug\net10.0\EsercizioViaggi.sourcelink.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\obj\Debug\net10.0\EsercizioViaggi.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\obj\Debug\net10.0\refint\EsercizioViaggi.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\obj\Debug\net10.0\EsercizioViaggi.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\obj\Debug\net10.0\EsercizioViaggi.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioViaggi\obj\Debug\net10.0\ref\EsercizioViaggi.dll
