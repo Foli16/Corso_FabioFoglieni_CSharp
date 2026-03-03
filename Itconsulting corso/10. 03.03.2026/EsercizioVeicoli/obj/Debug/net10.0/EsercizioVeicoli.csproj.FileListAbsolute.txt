@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\bin\Debug\net10.0\EsercizioVeicoli.exe
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\bin\Debug\net10.0\EsercizioVeicoli.deps.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\bin\Debug\net10.0\EsercizioVeicoli.runtimeconfig.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\bin\Debug\net10.0\EsercizioVeicoli.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\bin\Debug\net10.0\EsercizioVeicoli.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\obj\Debug\net10.0\EsercizioVeicoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\obj\Debug\net10.0\EsercizioVeicoli.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\obj\Debug\net10.0\EsercizioVeicoli.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\obj\Debug\net10.0\EsercizioVeicoli.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\obj\Debug\net10.0\EsercizioVeicoli.sourcelink.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\obj\Debug\net10.0\EsercizioVeicoli.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\obj\Debug\net10.0\refint\EsercizioVeicoli.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\obj\Debug\net10.0\EsercizioVeicoli.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\obj\Debug\net10.0\EsercizioVeicoli.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\10. 03.03.2026\EsercizioVeicoli\obj\Debug\net10.0\ref\EsercizioVeicoli.dll
