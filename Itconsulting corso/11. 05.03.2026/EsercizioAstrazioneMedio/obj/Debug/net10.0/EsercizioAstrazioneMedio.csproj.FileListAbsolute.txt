@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\bin\Debug\net10.0\EsercizioAstrazioneMedio.exe
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\bin\Debug\net10.0\EsercizioAstrazioneMedio.deps.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\bin\Debug\net10.0\EsercizioAstrazioneMedio.runtimeconfig.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\bin\Debug\net10.0\EsercizioAstrazioneMedio.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\bin\Debug\net10.0\EsercizioAstrazioneMedio.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\obj\Debug\net10.0\EsercizioAstrazioneMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\obj\Debug\net10.0\EsercizioAstrazioneMedio.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\obj\Debug\net10.0\EsercizioAstrazioneMedio.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\obj\Debug\net10.0\EsercizioAstrazioneMedio.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\obj\Debug\net10.0\EsercizioAstrazioneMedio.sourcelink.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\obj\Debug\net10.0\EsercizioAstrazioneMedio.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\obj\Debug\net10.0\refint\EsercizioAstrazioneMedio.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\obj\Debug\net10.0\EsercizioAstrazioneMedio.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\obj\Debug\net10.0\EsercizioAstrazioneMedio.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioAstrazioneMedio\obj\Debug\net10.0\ref\EsercizioAstrazioneMedio.dll
