@@ -1,30 +1,31 @@
-public abstract class Lavoratore
+public abstract class Dipendente
 {
     private Badge? badge;
     private string? nome, cognome;
     private DateOnly dob;
     private List<Turno> turni = new List<Turno>();
 
+    public Dipendente(Badge badge, string nome, string cognome, DateOnly dob)
+    {
+        this.badge = badge;
+        this.nome = nome;
+        this.cognome = cognome;
+        this.dob = dob;
+    }
+
     public Badge? Badge
     {
         get => badge;
-        set => badge = value;
     }
     public string? Nome
     {
         get => nome;
-        set => nome = value;
     }
     public string? Cognome
     {
         get => cognome;
-        set => cognome = value;
     }
-    public DateOnly Dob
-    {
-        get => dob;
-        set => dob = value;
-    }
+    
     public List<Turno> Turni
     {
         get => turni;
