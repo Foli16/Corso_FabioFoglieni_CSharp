@@ -27,6 +27,6 @@ public class CorsoOnline : Corso
     public override void StampaDettagli()
     {
         ErogaCorso();
-        Console.WriteLine($"Corso: {Titolo}, numero ore: {DurataOre}, piattaforma: {piattaforma}, link accesso: {linkAccesso}");
+        Console.WriteLine($"Corso: {Titolo}, numero ore: {DurataOreGet}, piattaforma: {piattaforma}, link accesso: {linkAccesso}");
     }
 }

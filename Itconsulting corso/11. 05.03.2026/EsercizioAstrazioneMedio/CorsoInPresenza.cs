@@ -34,6 +34,6 @@ public class CorsoInPresenza : Corso
     public override void StampaDettagli()
     {
         ErogaCorso();
-        Console.WriteLine($"Corso: {Titolo}, numero ore: {DurataOre}, aula: {aula}, numero posti: {numeroPosti}");
+        Console.WriteLine($"Corso: {Titolo}, numero ore: {DurataOreGet}, aula: {aula}, numero posti: {numeroPosti}");
     }
 }

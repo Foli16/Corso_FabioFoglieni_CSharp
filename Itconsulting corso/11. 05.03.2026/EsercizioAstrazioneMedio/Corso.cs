@@ -15,18 +15,30 @@ public abstract class Corso
         }
         set => titolo = value;
     }
-    public int DurataOre
+    public string? DurataOreSet
+    {
+        
+        set
+        {
+            if (int.TryParse(value, out int valore) && valore >= 0)
+            {
+                durataOre = valore;
+                return;
+            }
+            do
+            {
+                Console.Write("Valore non compatibile. Inserire un numero positivo: ");
+            } while (!int.TryParse(Console.ReadLine(), out valore) || valore < 0);
+
+            durataOre = valore;
+        }
+    }
+
+    public int DurataOreGet
     {
         get 
         {
             return durataOre;
-        }
-        set
-        {
-            if(value >= 0)
-                durataOre = value;
-            else
-                Console.WriteLine("La durata deve avere un valore positivo.");
         }
     }
 

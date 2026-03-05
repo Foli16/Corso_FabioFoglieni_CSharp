@@ -32,7 +32,7 @@
                             Console.Write("Titolo corso: ");
                             cp.Titolo = Console.ReadLine();
                             Console.Write("Durata in ore: ");
-                            cp.DurataOre = int.Parse(Console.ReadLine()!);
+                            cp.DurataOreSet = Console.ReadLine();
                             Console.Write("Aula: ");
                             cp.Aula = Console.ReadLine();
                             Console.Write("Numero posti in aula: ");
@@ -53,7 +53,7 @@
                             Console.Write("Titolo corso: ");
                             co.Titolo = Console.ReadLine();
                             Console.Write("Durata in ore: ");
-                            co.DurataOre = int.Parse(Console.ReadLine()!);
+                            co.DurataOreSet = Console.ReadLine();
                             Console.Write("Piattaforma: ");
                             co.Piattaforma = Console.ReadLine();
                             Console.Write("Link accesso: ");

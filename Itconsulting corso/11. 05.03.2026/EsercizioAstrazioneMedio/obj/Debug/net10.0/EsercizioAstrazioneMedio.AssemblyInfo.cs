@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsercizioAstrazioneMedio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9da4e6a8eb3906e3d746a4be2dda64230948be8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca554c5044a731ea46f6552bf33bb26e50c32e73")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsercizioAstrazioneMedio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsercizioAstrazioneMedio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
