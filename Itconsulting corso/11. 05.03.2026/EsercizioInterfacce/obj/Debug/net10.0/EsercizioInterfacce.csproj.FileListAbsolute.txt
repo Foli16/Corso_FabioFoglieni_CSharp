@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\bin\Debug\net10.0\EsercizioInterfacce.exe
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\bin\Debug\net10.0\EsercizioInterfacce.deps.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\bin\Debug\net10.0\EsercizioInterfacce.runtimeconfig.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\bin\Debug\net10.0\EsercizioInterfacce.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\bin\Debug\net10.0\EsercizioInterfacce.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\obj\Debug\net10.0\EsercizioInterfacce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\obj\Debug\net10.0\EsercizioInterfacce.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\obj\Debug\net10.0\EsercizioInterfacce.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\obj\Debug\net10.0\EsercizioInterfacce.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\obj\Debug\net10.0\EsercizioInterfacce.sourcelink.json
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\obj\Debug\net10.0\EsercizioInterfacce.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\obj\Debug\net10.0\refint\EsercizioInterfacce.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\obj\Debug\net10.0\EsercizioInterfacce.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\obj\Debug\net10.0\EsercizioInterfacce.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\Corso_FabioFoglieni_CSharp\Itconsulting corso\11. 05.03.2026\EsercizioInterfacce\obj\Debug\net10.0\ref\EsercizioInterfacce.dll
