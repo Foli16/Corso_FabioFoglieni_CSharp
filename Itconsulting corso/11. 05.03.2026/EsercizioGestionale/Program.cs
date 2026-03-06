@@ -85,6 +85,7 @@
         dipendenti.Add(o5.Badge!.Id, o5);
     }
 
+    // LA GESTIONE LOG È DA SISTEMARE, NON DOVREBBE REGISTRARE QUANDO NON VA A BUON FINE L'INGRESSO O L'USCITA
     static void GestioneLog(Dipendente d, DateTime ora, bool entra)
     {
         if(entra)

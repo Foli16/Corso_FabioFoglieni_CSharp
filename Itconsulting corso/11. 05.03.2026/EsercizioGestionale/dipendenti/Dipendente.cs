@@ -33,6 +33,11 @@ public abstract class Dipendente
 
     public void Entra()
     {
+        if(turni.Count != 0 && turni.Last().Uscita == DateTime.MinValue)
+        {
+            Console.WriteLine("L'ultimo turno è ancora aperto. Chiudere il turno prima di aprirne un altro.");
+            return;
+        }
         Turno t = new Turno();
         t.Ingresso = DateTime.Now;
         turni.Add(t);
@@ -40,6 +45,14 @@ public abstract class Dipendente
 
     public void Esce()
     {
-        turni.Last().Uscita = DateTime.Now;
+        if(turni.Count != 0)
+        {
+            if(turni.Last().Uscita > DateTime.MinValue)
+            {
+                Console.WriteLine("L'ultimo turno è già stato chiuso.");
+                return;
+            }
+            turni.Last().Uscita = DateTime.Now;
+        }
     }
 }
